@@ -1,0 +1,32 @@
+img.logo {
+	margin-top: 180px;
+	width:272px;
+	height:92px;
+	margin-bottom: 30px;
+}
+input#arama {
+	width:600px;
+	height:30px;
+	padding-left:10px;
+	font-size: 17px;
+	color: grey;
+	border-radius: 4px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+}
+button.butonlar {
+	height: 30px;
+	width: auto;
+	border:1px solid #ccc;
+	border-radius:4px;
+}
+#alan {
+	background-color: #ccc;
+	text-align: center;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-top:230px;
+}
+body {
+		margin:0px;
+}
